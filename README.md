@@ -1,1 +1,1 @@
-# Capstone-project
+# Wheat head detection using YOLOv5 
